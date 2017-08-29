@@ -1,12 +1,12 @@
 {
-  "name": "tthomsen-ssh",
+  "name": "cfalck-ssh",
   "version": "0.1.0",
-  "author": "Travis N. Thomsen <travis@linuxacademy.com>",
+  "author": "Chris Falck <chris.falck@tickboxconsulting.com>",
   "summary": "This module will manage ssh.",
   "license": "Apache-2.0",
-  "source": "https://github.com/rivethead42/puppet-ssh",
-  "project_page": "https://github.com/rivethead42/puppet-ssh",
-  "issues_url": "https://github.com/rivethead42/puppet-ssh/issues",
+  "source": "https://github.com/tickbox-smc/puppet-ssh",
+  "project_page": "https://github.com/tickbox-smc/puppet-ssh",
+  "issues_url": "https://github.com/tickbox-smc/puppet-ssh/issues",
   "dependencies": [
     {"name":"puppetlabs-stdlib","version_requirement":">= 1.0.0"}
   ],
